@@ -1,1 +1,0 @@
-build = "mvn -pl build-pom.xml"
